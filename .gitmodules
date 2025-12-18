@@ -1,9 +1,12 @@
 [submodule "packs/ddm"]
 	path = packs/ddm
 	url = https://github.com/nebuIr/Default-Dark-Mode.git
+	branch = 1.21.4
 [submodule "packs/immersive"]
 	path = packs/immersive
 	url = https://github.com/Shrimpsnail/Immersive-Interfaces.git
+	branch = main
 [submodule "packs/faithful"]
 	path = packs/faithful
 	url = https://github.com/Faithful-Resource-Pack/Faithful-32x-Java.git
+	branch = 1.21.4
